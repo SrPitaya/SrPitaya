@@ -8,5 +8,6 @@
 
 ## 📫 About Me
 A total mess and a completely crazy guy.
+I really like pitayas, so if you make me happy, gift me one!
 
-> _"Still learning. Still breaking things. Still loving it."_
+> _"Pitayas are love, Pitayas are life"_
