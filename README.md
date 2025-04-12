@@ -1,6 +1,8 @@
 # 👋 Hi, I'm SrPitaya
 
-🚀 Trying to grow and learn in my one and only life.
+## 📫 About Me
+A total mess and a completely crazy guy.  
+I really like pitayas, so if you make me happy, gift me one!
 
 ## 🛠️ Technologies I work with
 
@@ -17,8 +19,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 
-## 📫 About Me
-A total mess and a completely crazy guy.  
-I really like pitayas, so if you make me happy, gift me one!
+🚀 Trying to grow and learn in my one and only life.
 
 > _"Pitayas are love, Pitayas are life"_
